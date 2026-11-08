@@ -1,4 +1,4 @@
-# Olá, sou o Jefferson 👋
+# Olá, sou o Jefferson
 
 Tech Lead e arquiteto de software com mais de 10 anos de experiência em sistemas críticos
 do mercado financeiro: bancos, seguros e mercado de capitais.
