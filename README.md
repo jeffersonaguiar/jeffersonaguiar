@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Jefferson 👋
 
-<!--
-**jeffersonaguiar/jeffersonaguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Lead e arquiteto de software com mais de 10 anos de experiência em sistemas críticos
+do mercado financeiro: bancos, seguros e mercado de capitais.
 
-Here are some ideas to get you started:
+## No que trabalho
+- Arquitetura de microsserviços e sistemas distribuídos
+- Mensageria e processamento orientado a eventos
+- Soluções com IA generativa (Python, LangChain, LangGraph, FastAPI)
+- Aplicações web e mobile (React e React Native)
+- Performance, observabilidade e qualidade com testes automatizados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Java · Spring Boot · Micronaut · Python · React · React Native · AWS (SQS, DynamoDB)
+PostgreSQL · Redis · Docker
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/jeffersonaguiar)
